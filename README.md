@@ -22,8 +22,10 @@ This repository contains code used in the research for automating Performance St
 6. Training.ipynb
    - Purpose: Runs the Llama model on the on the validation set and on the test set using examples selected by ACSESS.
 
-7. 7.Evaluation binary classification task.ipynb
+7. Evaluation binary classification task.ipynb
    - Purpose: Evaluates the regression task's performance metrics (e.g., MAE, MSE, RMSE).
 
 8. Evaluation regression task.ipynb
    - Purpose: Evaluates the binary classification task's performance metrics (e.g., Precision, Recall, F1-score).
+
+Some examples of fake clinical notes in Dutch can be found in the folder "Clinical notes examples (unprocessed)". 
